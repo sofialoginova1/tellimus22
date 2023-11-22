@@ -1,0 +1,108 @@
+.cvet1{
+background-color: #BD52E3;
+}
+.nav-tekst{
+font-size: 30px;
+}
+.nav-link{
+color: black;
+}
+a{
+    font-size: 40px;
+    color: black;
+    padding: 70px;
+    text-decoration: none;
+    align-self: center;
+    font-family: 'Bell MT', monospace;
+}
+.btn{
+    background-color: #BD52E3;
+            color: black;
+            padding: 10px 20px;
+            border: none;
+}
+
+a:hover{
+    color: #cb99dd !important;
+    text-decoration: none;
+
+}
+li{
+    a: center;
+    display: inline;
+    vertical-align: 15px;
+}
+#menuContent{
+    background-color:#BD52E3;
+    padding: 0px;
+    width: 0px;
+    position: static;
+}
+         .navbar-collapse {
+        max-width: 1000vw; /* Максимальная ширина выпадающего меню */
+        }
+
+   .dropdown {
+    position: static;
+    display: inline-block;
+    width: auto;
+    margin-right: 10px;
+}
+.btn.knopka i {
+    font-size: 30px;
+}
+.dropdown-menu {
+    width: auto;
+    min-width: 400px;
+}
+.knopka:hover {
+    background-color: #cb99dd !important;
+    border-color: #FFFFFF !important;
+    color: #FFFFFF !important;
+}
+
+.gradient-custom {
+
+background: -webkit-linear-gradient(left, #F2DDF9, #FBEFFF);
+}
+.img-fluid{
+    width: 350px;
+}
+.col-md-2{
+    font-family: 'Bell MT', monospace;
+    font-weight: 300;
+    font-size: 27px;
+    margin: 10px;
+}
+.text{
+    font-family: 'Bell MT', monospace;
+    font-weight: 300;
+    font-size: 27px;
+    color: black;
+
+}
+.lead{
+    font-family: 'Bell MT', monospace;
+    font-weight: 300;
+    font-size: 27px;
+    margin: 10px;
+    color: black;
+}
+.d-flex{
+    font-family: 'Bell MT', monospace;
+    font-weight: 300;
+    font-size: 27px;
+
+}
+.h2{
+    font-family: 'Bell MT', monospace;
+    font-weight: 300;
+    font-size: 27px;
+}
+.fw-bold .fw-bold me-4{
+    font-family: 'Bell MT', monospace;
+    color: black;
+}
+.card-header{
+    background-color: #E6BBF6;
+}
